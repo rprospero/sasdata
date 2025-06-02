@@ -1,6 +1,6 @@
 {
   # inputs.nixpkgs.url = "nixpkgs/nixos-unstable";
-  inputs.nixpkgs.url = "nixpkgs/nixos-24.11";
+  inputs.nixpkgs.url = "nixpkgs/nixos-25.05";
   inputs.outdated.url = "nixpkgs/nixos-24.05";
 
   inputs.pyproject-nix.url = "github:pyproject-nix/pyproject.nix";
