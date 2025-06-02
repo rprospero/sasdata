@@ -6,6 +6,8 @@
 *.sln
 .*.swp
 .DS_Store
+.direnv
+.envrc
 /.settings
 /.vscode
 /.project
